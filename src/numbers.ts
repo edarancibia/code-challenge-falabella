@@ -12,6 +12,5 @@ export function printNumbers() {
         numbers.push(number);
     }
 
-    //const result = numbers.join(', ');
     return numbers;
 }
