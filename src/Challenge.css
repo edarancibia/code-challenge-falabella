@@ -1,0 +1,19 @@
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .number-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .number-list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid beige;
+    border-radius: 5px;
+  }
